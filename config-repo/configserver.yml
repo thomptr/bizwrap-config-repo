@@ -1,4 +1,4 @@
-info.description: configserver
+info.description: config-server
 ---
 spring:
   profiles: cloud,dev
